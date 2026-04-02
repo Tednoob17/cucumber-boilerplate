@@ -39,7 +39,7 @@
     "@typescript-eslint/eslint-plugin": "^8.7.0",
     "@typescript-eslint/parser": "^8.7.0",
     "@wdio/cli": "9.1.2",
-    "@wdio/config": "9.1.2",
+    "@wdio/config": "9.27.0",
     "@wdio/cucumber-framework": "9.1.2",
     "@wdio/globals": "9.1.2",
     "@wdio/local-runner": "9.1.2",
